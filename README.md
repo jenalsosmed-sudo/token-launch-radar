@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/token-radar-01/jenalsosmed-sudo/token-launch-radar/rank.svg)](https://make.fun)
 [![reward](https://make.fun/badge/token-radar-01/jenalsosmed-sudo/token-launch-radar/reward.svg)](https://make.fun)
 
-A token launch radar for the [make.fun](https://make.fun) bounty **Build the best token launch radar**
+A token launch radar for the [make.fun bounty **Build the best token launch radar**](https://make.fun/bounty/token-radar-01)
 (`token-radar-01`): it reads a sealed DefiLlama snapshot, ranks the pre-token protocols by
 an implied launch value, and hands in a web dashboard with the board, a detail view for each
 protocol, and the steps to farm it.
